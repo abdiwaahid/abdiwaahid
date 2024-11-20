@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Abdiwaahid
 
 ### Full Stack Developer | Database Administrator | Tech Enthusiast
 
