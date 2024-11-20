@@ -1,62 +1,27 @@
-# Hi there! 👋 I'm Abdiwaahid
+# 💫 About Me:
+🔭 I’m currently working on A Family Tree App to digitize and visualize family connections<br>👯 I’m looking to collaborate on Community-driven projects for Somali developers, including open-source platforms and educational tools.<br>🤝 I’m looking for help with Improving my skills<br>🌱 I’m currently learning Laravel Livewire to build dynamic interfaces seamlessly<br>💬 Ask me about Full stack development with Laravel, MySQL, and Livewire<br>⚡ Fun fact Debugging feels like solving a mystery—every bug is a clue to unravel
 
-### Full Stack Developer | Database Administrator | Tech Enthusiast
 
-Welcome to my GitHub! I'm a full stack developer with a focus on creating meaningful, functional applications that can make a difference. Currently, I'm based in Somalia and work as a Database Administrator at **Golis Telecom Somalia**. My expertise spans across database management, web and mobile development, and building tools that simplify complex processes.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdiwaahid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_abdiwaahid) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abdiwaahid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdiwaahid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdiwaahid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🔭 Current Projects
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abdiwaahid&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Job Board Platform  
-A comprehensive job board platform catering to Somali programmers, freelancers, and tech enthusiasts. It includes:
-- **Learning Platform**: Courses, resources, and coding challenges
-- **Community Forum**: Q&A, discussions, and networking opportunities
-- **Portfolio Showcase**: Display projects and profiles
-- **Events Calendar**: Meetups, workshops, and hackathons
-- **Collaborative Tools**: A suite of tools for team development
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Stack Overflow Clone with Laravel  
-A Q&A platform designed with Laravel for Somali tech communities to share knowledge, solve problems, and collaborate.
-
-### Family Tree App  
-An app to help users create and visualize their family tree, preserving their heritage digitally.
-
----
-
-## 🌱 I’m Currently Learning
-- **Next.js & Tailwind CSS** for optimized frontend design and development
-- **Angular with Pocketbase** to explore future-ready project ideas
-- **Bolt.new** for creating engaging landing pages and blogs
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abdiwaahid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=abdiwaahid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👨‍💻 My Tech Stack
-
-- **Frontend**: HTML, CSS, Tailwind CSS, Next.js, Angular
-- **Backend**: Laravel, PHP, MySQL, SQLite, Pocketbase
-- **Database Management**: MySQL, SQLite (Database Administrator)
-- **Other Tools**: Livewire, Filamentphp, Bolt.new
-
----
-
-## 👯 I’m Looking to Collaborate On
-- **Community Projects**: Open-source tools that help Somali developers grow and showcase their work.
-- **Educational Platforms**: Especially those focused on programming, computer science, and tech resources.
-
----
-
-## 📫 How to Reach Me
-
-I'm always open to connecting with like-minded developers, clients, and learners! Feel free to reach out for collaboration or mentorship.
-
-- LinkedIn: [Your LinkedIn](#)
-- Email: your.email@example.com
-
----
-
-## ⚡ Fun Fact
-
-I've recently ventured into creating a faceless YouTube channel called **Lifaaq**, where I aim to share tech insights, tutorials, and possibly some lighthearted content in Somali.
-
-Thanks for visiting my profile! 😊 Let’s build something amazing together!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
