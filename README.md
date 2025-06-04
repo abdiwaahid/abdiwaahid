@@ -1,8 +1,12 @@
 # 💫 About Me:
 🔭 I’m a Database Administrator and Full Stack Developer with 3+ years of experience optimizing high-performance database systems (MySQL, PostgreSQL, MSSQL) and building scalable web applications using Laravel, Angular, and Python.<br>
+
 👯 I’m passionate about collaborating on open-source projects, particularly community-driven platforms for Somali developers, such as educational tools and knowledge-sharing apps.<br>
+
 🌱 I’m currently diving deeper into **Laravel Livewire** for dynamic, reactive interfaces and enhancing my skills in **database optimization** and **data modeling**.<br>
+
 💬 Ask me about database performance tuning, full-stack development with Laravel and Angular, or building RESTful APIs.<br>
+
 ⚡ **Fun fact**: I treat debugging like a treasure hunt—each bug is a puzzle waiting to be solved!<br>
 📍 Based in Sarajevo, Bosnia and Herzegovina, pursuing an MSc in Computer Sciences and Engineering.
 
